@@ -1,0 +1,1 @@
+This repository contains a VHDL code example demonstrating a potential race condition in a simple counter.  The bug involves the use of an asynchronous enable signal, which can lead to unpredictable counter behavior. The solution shows how to resolve this issue by using synchronous signaling.
